@@ -5808,4 +5808,78 @@ Go Top CSS
   transform: translateY(-5px);
 }
 
+.skiptranslate iframe {
+  display: none;
+}
+
+.skiptranslate span {
+  display: none;
+}
+
+.skiptranslate span {
+  display: none;
+}
+
+.goog-custom-class .goog-te-combo {
+  padding-left: 0;
+  /* Remove the padding */
+  background-image: none;
+  /* Remove the background image */
+}
+
+.goog-custom-class .goog-te-combo-arrow {
+  display: none;
+  /* Hide the default arrow */
+}
+
+.goog-te-gadget-icon {
+  display: none;
+}
+
+.goog-te-gadget-simple {
+  height: 15px;
+  display: inline-block;
+  background: url(../img/uk.png) !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover !important;
+  width: 15px;
+  border: 0px !important;
+  padding: 0px;
+  margin: 0px;
+  outline: 0px;
+}
+
+html[lang="fr"] .goog-te-gadget-simple {
+  height: 15px;
+  display: inline-block;
+  background: url(../img/fr.png) !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover !important;
+  width: 15px;
+  border: 0px !important;
+  padding: 0px;
+  margin: 0px;
+  outline: 0px;
+}
+
+html[lang="en"] .goog-te-gadget-simple {
+  height: 15px;
+  display: inline-block;
+  background: url(../img/uk.png) !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover !important;
+  width: 15px;
+  border: 0px !important;
+  padding: 0px;
+  margin: 0px;
+  outline: 0px;
+}
+
+body {
+  top: 0px !important;
+}
+
 /*# sourceMappingURL=style.css.map */
